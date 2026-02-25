@@ -1,6 +1,6 @@
-# .github
+# Hakai Genomics
 
-Hakai Genomics repositories have been migrated to the [HakaiInstitute](https://github.com/HakaiInstitute/) organization.
+These repositories have been migrated to the [HakaiInstitute](https://github.com/HakaiInstitute/) organization.
 
 The repositories all use the same names as before, and all activities via git should redirect automatically to the new locations.
 
